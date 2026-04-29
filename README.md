@@ -44,18 +44,13 @@ Explores customer demographics, regional distribution, and behavior patterns.
 
 - Customers aged 26–45 drive the majority of revenue, suggesting that middle-aged segments are the most valuable and should be the primary target for marketing and product strategies---
 
-## Project Structure
-```
-python_cleaning/
-sql/
-outputs/
-```
+
 
 ---
 
 ## Outputs
 - Power BI dashboard (PDF)
-- Dashboard screenshots
+-![Dashboard Screenshot](outputs/dashboard.png)
 
 ---
 
