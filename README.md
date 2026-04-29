@@ -50,7 +50,7 @@ Explores customer demographics, regional distribution, and behavior patterns.
 
 ## Outputs
 
--![Dashboard Screenshot](outputs/executive.png)
+![Dashboard Screenshot](outputs/executive.png)
 
 ---
 
