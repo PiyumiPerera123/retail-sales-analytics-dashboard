@@ -49,7 +49,7 @@ Explores customer demographics, regional distribution, and behavior patterns.
 ---
 
 ## Outputs
-- Power BI dashboard (PDF)
+
 -![Dashboard Screenshot](outputs/executive.png)
 
 ---
